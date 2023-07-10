@@ -6,8 +6,7 @@ This project actually contains two projects:
 
 You must run "npm install" in both project folders.
 
-Thereafter, you can start the dummy backend API server via "npm start" (inside the "backend" folder).
-The React app dev server is then also started via "npm start" (though inside the "frontend" folder).
+You have to start both fronend and backend via "npm start" in the frontend folder as the project uses the third party lib "concurently"
 
 You MUST have both servers (backend + frontend) up and running for the projects to work.
 
